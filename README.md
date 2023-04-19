@@ -1,6 +1,6 @@
 # Hey there, I'm Ivo 👨🏻‍💻 
 <div align="center">
-  <img src="https://media.giphy.com/media/MF1kR4YmC2Z20/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/MF1kR4YmC2Z20/giphy.gif" alt="beavis" width="600" height="300"/>
 </div>
 
 ## About Me:
