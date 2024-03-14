@@ -4,7 +4,7 @@
 </div>
 
 > ## About Me:
-I'm currently pursuing a programmer degree at the Universidad Tecnologica Nacional (UTN-FRA).<br> My journey into the realm of programming is fueled by a genuine passion for software development. I find it rewarding to create code and building solutions that make a difference.  I'm always eager to expand my skill set and embrace new challenges. 
+#### I'm currently pursuing a programmer degree at the Universidad Tecnologica Nacional (UTN-FRA).<br> My journey into the realm of programming is fueled by a genuine passion for software development. I find it rewarding to create code and building solutions that make a difference.  I'm always eager to expand my skill set and embrace new challenges. 
 
 > ## Languages and Tools:
 <div id="icons"> 
