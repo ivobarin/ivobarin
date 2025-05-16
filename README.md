@@ -6,18 +6,6 @@
 > ## About Me:
 #### I'm currently pursuing a programmer degree at the Universidad Tecnologica Nacional (UTN-FRA).<br> My journey into the realm of programming is fueled by a genuine passion for software development. I find it rewarding to create code and building solutions that make a difference.  I'm always eager to expand my skill set and embrace new challenges. 
 
-> ## Languages and Tools:
-<div id="icons"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="75" height="75"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="75" height="75"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dot-net" width="75" height="75"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="75" height="75"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"  width="75" height="75"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="75" height="75"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mySql" width="75" height="75"/>
-</div>
-
 > ## Contact Me:  
 <div align="center" id='contact' class="badges">
   <a href="https://www.linkedin.com/in/ivo-barinstein-3b0972253/">
